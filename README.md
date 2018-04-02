@@ -89,8 +89,9 @@ Run `ng test` to execute the unit tests via Karma.
 
 ## Authors
 
-**Divyesh Tamboli** : Full stack Java developer at Infosys
+**Divyesh Tamboli** : Full stack Java  / Hybrid  Web developer at Infosys
 **Email id** : Divyesh_tamboli@hotmail.com
+
 
 
 ## Help
