@@ -1,0 +1,14 @@
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\exception\TodoCreationException.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\controller\WebController.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\filter\SimpleCORSFilter.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\assembler\TodoModelEntitAssembler.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\entity\TodoEntity.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\service\TodoServiceImpl.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\controller\BaseController.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\service\TodoService.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\TodoServiceApplication.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\model\TodoModel.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\exception\TodoDeletionException.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\repository\TodoRepository.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\entity\TodoSequences.java
+C:\real\igt_todo-master\todo-boot-service\src\main\java\com\todo\exception\TodoLoadException.java
